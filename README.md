@@ -2,8 +2,6 @@
 
 An elegant and complete Spring Boot project demonstrating RESTful API development, environment profiles, exception handling, logging, and monitoring.
 
-<img width="699" height="622" alt="image" src="https://github.com/user-attachments/assets/49553907-aaf6-4c0b-8805-48d2347dfd61" />
-
 ---
 
 ## 🚀 Features
